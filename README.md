@@ -15,13 +15,21 @@ Permette di creare, aggiornare e gestire utenti partendo da un file CSV, con sup
 ## 🚀 Caratteristiche principali
 
 ✅ Creazione utenti da file CSV
+
 ✅ Struttura directory per classe (`/home/CLASSE/utente`)
+
 ✅ Spazio web automatico (`/var/www/html/CLASSE/utente`)
+
 ✅ Generazione password sicure
+
 ✅ Gestione quota disco per utente
+
 ✅ Aggiornamento utenti esistenti
+
 ✅ Logging completo operazioni
+
 ✅ Backup configurazioni
+
 ✅ Script modulare e riutilizzabile
 
 ---
