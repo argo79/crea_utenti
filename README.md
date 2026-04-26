@@ -87,7 +87,7 @@ Luca,Bianchi,3BI,
 ## 🔧 Installazione
 
 ```bash
-git clone https://github.com/tuo-username/tuo-repo.git
+git clone https://github.com/argo79/crea_utenti.git
 cd tuo-repo
 chmod +x crea_utenti.sh
 ```
