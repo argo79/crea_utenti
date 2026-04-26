@@ -266,19 +266,6 @@ Open Source – libero utilizzo e modifica
 
 ---
 
-## ⭐ Consigli
-
-* Usa `.gitignore` per escludere:
-
-```
-password_utenti.txt
-*.log
-```
-
-* Testa sempre su macchina di prova prima della produzione
-
----
-
 ## 🆘 Supporto
 
 Per assistenza:
