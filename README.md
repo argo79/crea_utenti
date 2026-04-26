@@ -88,7 +88,7 @@ Luca,Bianchi,3BI,
 
 ```bash
 git clone https://github.com/argo79/crea_utenti.git
-cd tuo-repo
+cd crea_utenti
 chmod +x crea_utenti.sh
 ```
 
