@@ -1,4 +1,4 @@
-# 🎓 Script Creazione Utenti Scuola
+# 🎓 Script Creazione Utenti
 
 Script Bash avanzato per la **gestione automatizzata degli utenti scolastici** su sistemi Linux.
 Permette di creare, aggiornare e gestire utenti partendo da un file CSV, con supporto per:
